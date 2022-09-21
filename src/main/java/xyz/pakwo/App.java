@@ -10,4 +10,10 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+
+    /**
+     * @author sarwo.wibowo
+     **/
+    public static interface GenderService {
+    }
 }
